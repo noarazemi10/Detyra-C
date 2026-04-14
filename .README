@@ -1,0 +1,11 @@
+# Day1 - C Calculator
+
+Simple calculator in C that performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to run
+gcc calculator.c -o calc
+./calc
